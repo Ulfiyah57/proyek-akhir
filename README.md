@@ -38,9 +38,7 @@ Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset. Tuj
    streamlit run main.py
    ```
 
-   Atau bisa dengan kunjungi website ini [Project Data Analytics](https://dicoding-tjan2lwsgz3l97a447szqk.streamlit.app/)
-
-   <img src="./dashboard/ss.png" alt="Streamlit logo"></img>
+   <img src="streamlit.png"></img>
 
 
 
